@@ -4,7 +4,7 @@
 npm install
 ```
 
-### Init Projects
+## Init Projects
 ```
 npm start
 ```
